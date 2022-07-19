@@ -17,10 +17,14 @@ function showTable()
     echo "<td> TEST </td>";
     echo "<td> TEST@TEST </td>";
     echo "<td> 123456  </td>";
+    echo "</tr>";
+    echo "<tr>";
     echo "<td> 1 </td>";
     echo "<td> TEST </td>";
     echo "<td> TEST@TEST </td>";
     echo "<td> 123456  </td>";
+    echo "</tr>";
+    echo "<tr>";
     echo "<td> 1 </td>";
     echo "<td> TEST </td>";
     echo "<td> TEST@TEST </td>";
