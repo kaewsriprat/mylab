@@ -18,7 +18,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h3>
-                            <a href="upgrade.php"></a><button class="btn btn-info">UPGRADE</button>
+                            <a href="upgrade.php"><button class="btn btn-info">UPGRADE</button></a>
                         </h3>
                     </div>
                     <div class="card-body">
