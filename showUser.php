@@ -17,10 +17,6 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h3>
-                            <a href="upgrade.php"><button class="btn btn-warning">UPGRADE</button></a>
-                            <a href="showUser.php"><button class="btn btn-warning">SHOWUSER</button></a>
-                        </h3>
                     </div>
                     <div class="card-body">
                         <?php
